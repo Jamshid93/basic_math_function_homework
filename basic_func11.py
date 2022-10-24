@@ -1,7 +1,4 @@
 # Create a function called main.
-from tkinter.messagebox import RETRY
-
-
 def main(a):
 # Create function argument a.
     a
