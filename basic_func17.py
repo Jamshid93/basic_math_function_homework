@@ -4,7 +4,7 @@ def main(a):
 # Create function arguments a.
     a
 # Assign the value pi to the variable "a" and return.
-    a="pi"
+    a=pi
     return a
 print(main(2))
 
